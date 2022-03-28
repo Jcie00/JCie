@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jcie00
+- 👋 Hi, I’m Justine Caldona
 - 👀 I’m interested in Website Designing
 - 🌱 I’m currently learning design a website
 - 💞️ I’m looking to collaborate on Javascript and react
